@@ -7,6 +7,14 @@
     {
       "id": "Public.users",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "viewMode": false,
