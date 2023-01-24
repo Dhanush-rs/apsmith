@@ -1,19 +1,15 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Home",
       "isDefault": true
     },
     {
-      "id": "Public.users",
+      "id": "Esp info",
       "isDefault": false
     },
     {
-      "id": "Page2",
-      "isDefault": false
-    },
-    {
-      "id": "Movies",
+      "id": "Servers info",
       "isDefault": false
     }
   ],
